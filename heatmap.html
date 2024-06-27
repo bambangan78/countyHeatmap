@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Counties Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        *, *:focus, *:hover {
+            outline: none;
+        }
+        #map { 
+            height: 825px;
+            width: 100%;
+            border-radius: 10px; 
+            border: 2px solid black;
+            background: none;
+        }
+        .info {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            padding: 8px;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+        #info-bar {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 98%;
+            height: 50px;
+            background: white;
+            border-top: 1px solid #ccc;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+        #info-bar .county-info {
+            flex: 1;
+        }
+        #info-bar .visitors-list {
+            flex: 2;
+            text-align: right;
+            max-width: 1000px;
+            padding-left: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="info-bar">
+        <div class="county-info"></div>
+        <div class="visitors-count"></div>
+        <div class="visitors-list"></div>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="us_counties_geojson.js"></script>
+    <script src="visitordata.js"></script>
+    <script src="heatmap.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
