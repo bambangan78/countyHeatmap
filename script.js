@@ -85,7 +85,7 @@ const visitorsList = document.querySelector('#info-bar .visitors-list');
 
 // Function to normalize county names
 function normalizeCountyName(name) {
-    return name.replace(/ /g, "_").replace(".", "_").replace("'", "_").replace("-", "_");
+    return name.replace(/ /g, "_").replace(/\./g, "_").replace("'", "_").replace("-", "_");
 }
 
 // Function to get color based on county name
