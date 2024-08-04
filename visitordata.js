@@ -1,6 +1,6 @@
 const visitorsData = `Mobile__AL, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, Popeetoes, sagittarius998, shinboy, klutchEZ, TommyTheMet, GeoGamr, Tumnus, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
 Baldwin__AL, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, Popeetoes, sagittarius998, shinboy, klutchEZ, GeoGamr, Tumnus, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
-Escambia__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, sheepie, Popeetoes, shinboy, klutchEZ, GeoGamr, Tumnus, OKobern, JayDoo909, Jet
+Escambia__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, sheepie, Popeetoes, shinboy, klutchEZ, GeoGamr, Piglee, Tumnus, OKobern, JayDoo909, Jet
 Clarke__AL, jogwi, stupiddrew9, Jogwi, shinboy
 Sumter__AL, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, klutchEZ, Cascadia, kp, Norton, GeoGamr, FlyingBro, urbanindy, JayDoo909, Jet
 Greene__AL, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, klutchEZ, Cascadia, kp, Norton, GeoGamr, FlyingBro, urbanindy, JayDoo909, Jet
@@ -93,16 +93,16 @@ Gordon__GA, jogwi, stupiddrew9, Jogwi, Ivan, shinboy, Radu, TommyTheMet, kp, Kaw
 Pickens__GA, jogwi, Jogwi, mobambachloride, shinboy, Radu, urbanindy
 Haralson__GA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, Radu, klutchEZ, Cascadia, GeoGamr, Tumnus, OKobern, Jet
 Carroll__GA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, Radu, klutchEZ, Cascadia, GeoGamr, Tumnus, OKobern, Jet
-Fulton__GA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Cascadia, TommyTheMet, kp, Pencil Vulture, Kawi, Diamond Armor Steve, Jo, Norton, GeoGamr, Tumnus, ocelot, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
+Fulton__GA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Cascadia, TommyTheMet, kp, Pencil Vulture, Kawi, Diamond Armor Steve, Jo, Norton, GeoGamr, Piglee, Tumnus, ocelot, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
 Douglas__GA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, Radu, klutchEZ, Cascadia, GeoGamr, Tumnus, OKobern, Jet
 Cobb__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, Ivan, shinboy, Radu, klutchEZ, TommyTheMet, kp, Kawi, Norton, GeoGamr, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
-DeKalb__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, sagittarius998, shinboy, Radu, klutchEZ, soup, Cascadia, TommyTheMet, kp, Jo, Norton, GeoGamr, muskox, FlyingBro, ProbablyGeo, PopeMothballsXII, urbanindy, Jet
-Gwinnett__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, kp, Jo, GeoGamr, muskox, FlyingBro, PopeMothballsXII, Jet
-Barrow__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, Jo, GeoGamr, muskox, FlyingBro, PopeMothballsXII, Jet
-Jackson__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, muskox, PopeMothballsXII, Jet
-Banks__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, muskox, PopeMothballsXII, Jet
-Franklin__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, muskox, PopeMothballsXII, Jet
-Hart__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, muskox, PopeMothballsXII, Jet
+DeKalb__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, sagittarius998, shinboy, Radu, klutchEZ, soup, Cascadia, TommyTheMet, kp, Jo, Norton, GeoGamr, Piglee, muskox, FlyingBro, ProbablyGeo, PopeMothballsXII, urbanindy, Jet
+Gwinnett__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, kp, Jo, GeoGamr, Piglee, muskox, FlyingBro, PopeMothballsXII, Jet
+Barrow__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, Jo, GeoGamr, Piglee, muskox, FlyingBro, PopeMothballsXII, Jet
+Jackson__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, muskox, PopeMothballsXII, Jet
+Banks__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, muskox, PopeMothballsXII, Jet
+Franklin__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, muskox, PopeMothballsXII, Jet
+Hart__GA, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, muskox, PopeMothballsXII, Jet
 Tunica__MS, jogwi, Jogwi, sheepie, shinboy, DasSchoontz
 DeSoto__MS, jogwi, Jogwi, mobambachloride, sheepie, shinboy, DasSchoontz, klutchEZ, MikeJB, kp, Kawi, GeoGamr, Tumnus, OKobern, Chicago Geographer
 Tate__MS, jogwi, Jogwi, mobambachloride, shinboy, DasSchoontz, Chicago Geographer
@@ -149,13 +149,13 @@ Greene__MS, jogwi, Jogwi, mobambachloride, sheepie, shinboy, OKobern, JayDoo909
 George__MS, jogwi, Jogwi, mobambachloride, sheepie, shinboy, OKobern, JayDoo909, Jet
 Lamar__MS, jogwi, Jogwi, mobambachloride, sheepie, sagittarius998, klutchEZ, kp, Norton, GeoGamr, FlyingBro, OKobern, urbanindy, JayDoo909, Jet
 Jackson__MS, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, TommyTheMet, Tumnus, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
-Santa_Rosa__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, sheepie, Popeetoes, shinboy, klutchEZ, GeoGamr, OKobern, JayDoo909, Jet
-Okaloosa__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, OKobern, JayDoo909, Jet
-Walton__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, kp, GeoGamr, OKobern, JayDoo909, Jet
+Santa_Rosa__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, sheepie, Popeetoes, shinboy, klutchEZ, GeoGamr, Piglee, OKobern, JayDoo909, Jet
+Okaloosa__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, Piglee, OKobern, JayDoo909, Jet
+Walton__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, kp, GeoGamr, Piglee, OKobern, JayDoo909, Jet
 Bay__FL, jogwi, stupiddrew9, Jogwi, shinboy, klutchEZ, kp, OKobern, urbanindy
 Gulf__FL, jogwi, Jogwi, shinboy
-Washington__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, kp, GeoGamr, OKobern, JayDoo909, Jet
-Holmes__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, GeoGamr, OKobern, JayDoo909, Jet
+Washington__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, kp, GeoGamr, Piglee, OKobern, JayDoo909, Jet
+Holmes__FL, jogwi, stupiddrew9, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, GeoGamr, Piglee, OKobern, JayDoo909, Jet
 Shelby__TN, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, shinboy, DasSchoontz, klutchEZ, MikeJB, kp, Kawi, Norton, GeoGamr, Tumnus, FlyingBro, OKobern, Chicago Geographer, urbanindy, JayDoo909
 Fayette__TN, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, shinboy, DasSchoontz, klutchEZ, MikeJB, kp, Norton, FlyingBro, OKobern, JayDoo909
 Hardeman__TN, jogwi, stupiddrew9, Jogwi, shinboy
@@ -221,10 +221,10 @@ Catawba__NC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffle
 Iredell__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, TommyTheMet, Tumnus, ocelot, muskox, OKobern, Chicago Geographer
 Davie__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinboy, ocelot, muskox, OKobern, Jet
 Forsyth__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, ocelot, muskox, OKobern, Jet
-Guilford__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, GeoGamr, ocelot, muskox, OceanMan, OKobern, PopeMothballsXII, Arija, Jet
-Alamance__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, GeoGamr, ocelot, muskox, OKobern, Jet
-Orange__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, GeoGamr, ocelot, muskox, OKobern, Jet
-Durham__NC, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, GeoGamr, ocelot, muskox, OKobern, Jet
+Guilford__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, GeoGamr, Piglee, ocelot, muskox, OceanMan, OKobern, PopeMothballsXII, Arija, Jet
+Alamance__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, GeoGamr, Piglee, ocelot, muskox, OKobern, Jet
+Orange__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, GeoGamr, Piglee, ocelot, muskox, OKobern, Jet
+Durham__NC, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, GeoGamr, Piglee, ocelot, muskox, OKobern, Jet
 Wake__NC, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, GeoGamr, ocelot, muskox, OKobern, Jet
 Madison__LA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, shinboy, Cascadia, GeoGamr, OKobern, JayDoo909, Jet
 Richland__LA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, Cascadia, Kawi, GeoGamr, OKobern, JayDoo909, Jet
@@ -355,7 +355,7 @@ Eagle__CO, jogwi, Jogwi, voltaicwaffles, sheepie, stathx, shinboy, DasSchoontz, 
 Summit__CO, jogwi, Jogwi, voltaicwaffles, sheepie, stathx, shinboy, DasSchoontz, Kawi, Jo, EnzoDragon1, Tumnus, OceanMan, FlyingBro, OKobern, corndog, urbanindy, JayDoo909, Jet
 Clear_Creek__CO, jogwi, Jogwi, voltaicwaffles, sheepie, stathx, shinboy, DasSchoontz, Kawi, Jo, EnzoDragon1, Tumnus, OceanMan, FlyingBro, OKobern, corndog, urbanindy, Jet
 Jefferson__CO, jogwi, Jogwi, mobambachloride, voltaicwaffles, sheepie, stathx, shinboy, DasSchoontz, TommyTheMet, Kawi, Apollobo, Jo, Banana Peel Seal, EnzoDragon1, Tumnus, OceanMan, FlyingBro, OKobern, corndog, urbanindy, JayDoo909, Jet, AyjAy011
-Denver__CO, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, shinboy, DasSchoontz, Cascadia, TommyTheMet, Pencil Vulture, Kawi, Apollobo, Jo, Banana Peel Seal, GeoGamr, EnzoDragon1, Tumnus, OceanMan, FlyingBro, OKobern, corndog, Chicago Geographer, urbanindy, JayDoo909, Jet, AyjAy011
+Denver__CO, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, shinboy, DasSchoontz, Cascadia, TommyTheMet, Pencil Vulture, Kawi, Apollobo, Jo, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, Tumnus, OceanMan, FlyingBro, OKobern, corndog, Chicago Geographer, urbanindy, JayDoo909, Jet, AyjAy011
 Broomfield__CO, jogwi, stupiddrew9, Jogwi, mobambachloride, Ivan, sheepie, stathx, shinboy, TommyTheMet, Kawi, Jo, EnzoDragon1, Tumnus, OceanMan, OKobern, JayDoo909
 Adams__CO, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, shinboy, DasSchoontz, TommyTheMet, Kawi, Apollobo, Jo, Banana Peel Seal, GeoGamr, EnzoDragon1, Tumnus, OceanMan, FlyingBro, OKobern, corndog, Chicago Geographer, JayDoo909, Jet, AyjAy011
 Arapahoe__CO, jogwi, Jogwi, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, shinboy, DasSchoontz, Kawi, Jo, GeoGamr, EnzoDragon1, Tumnus, OceanMan, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet, AyjAy011
@@ -408,7 +408,7 @@ Bexar__TX, jogwi, Jogwi, Arctic Tern, sheepie, Popeetoes, kp, Kawi, GeoGamr, Tum
 Comal__TX, jogwi, Jogwi, Arctic Tern, sheepie, Popeetoes, kp, Kawi, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
 Blanco__TX, jogwi, Jogwi, sheepie, Popeetoes, GeoGamr, FlyingBro, JayDoo909, Jet
 Hays__TX, jogwi, Jogwi, Arctic Tern, sheepie, Popeetoes, kp, Pencil Vulture, Kawi, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
-Travis__TX, jogwi, Jogwi, Arctic Tern, voltaicwaffles, sheepie, Popeetoes, DasSchoontz, kp, Pencil Vulture, Kawi, Diamond Armor Steve, UCLA_Jesus, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
+Travis__TX, jogwi, Jogwi, Arctic Tern, voltaicwaffles, sheepie, Popeetoes, DasSchoontz, kp, Pencil Vulture, Kawi, Diamond Armor Steve, UCLA_Jesus, Norton, GeoGamr, Piglee, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
 Williamson__TX, jogwi, Jogwi, voltaicwaffles, sheepie, Popeetoes, DasSchoontz, kp, Pencil Vulture, Kawi, GeoGamr, Tumnus, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
 Bell__TX, jogwi, Jogwi, voltaicwaffles, sheepie, Popeetoes, DasSchoontz, kp, Pencil Vulture, Kawi, GeoGamr, Tumnus, FlyingBro, OKobern, ProbablyGeo, Chicago Geographer, JayDoo909, Jaycee, Jet
 McLennan__TX, jogwi, Jogwi, voltaicwaffles, sheepie, stathx, Popeetoes, DasSchoontz, kp, Kawi, GeoGamr, Tumnus, FlyingBro, OKobern, ProbablyGeo, Chicago Geographer, JayDoo909, Jet
@@ -506,7 +506,7 @@ Oneida__ID, jogwi, Jogwi, Arctic Tern, cascadia, klutchEZ, Cascadia, Pencil Vult
 Crenshaw__AL, jogwi, stupiddrew9, Jogwi, shinboy, kp, GeoGamr, OKobern
 Dale__AL, jogwi, Jogwi, shinboy, klutchEZ, kp, GeoGamr
 Houston__AL, jogwi, stupiddrew9, Jogwi, shinboy, klutchEZ, kp, GeoGamr
-Jackson__FL, jogwi, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, kp, GeoGamr, OKobern, JayDoo909, Jet
+Jackson__FL, jogwi, Jogwi, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, kp, GeoGamr, Piglee, OKobern, JayDoo909, Jet
 Scotts_Bluff__NE, jogwi, Jogwi, sheepie, stathx, shinboy, EnzoDragon1, OceanMan, OKobern
 Morrill__NE, jogwi, Jogwi, sheepie, stathx, Jo, GeoGamr, OceanMan, OKobern
 Garden__NE, jogwi, Jogwi, stathx
@@ -814,58 +814,58 @@ Mercer__PA, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittar
 Crawford__PA, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, Norton
 Erie__PA, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sagittarius998, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
 Chautauqua__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sagittarius998, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
-Erie__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
-Niagara__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, Popeetoes, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, UCLA_Jesus, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Arija, urbanindy, AyjAy011
+Erie__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
+Niagara__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, Popeetoes, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, UCLA_Jesus, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Arija, urbanindy, AyjAy011
 Orleans__NY, jogwi, Jogwi, sagittarius998
-Monroe__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Chicago Geographer, Arija, Jaycee, AyjAy011
+Monroe__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Chicago Geographer, Arija, Jaycee, AyjAy011
 Wayne__NY, jogwi, Jogwi, sagittarius998, train, TommyTheMet, ineedaface, Banana Peel Seal, Chicago Geographer, Arija
-Cayuga__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
-Oswego__NY, jogwi, Jogwi, Ivan, sagittarius998, Radu, TommyTheMet, OceanMan
-Jefferson__NY, jogwi, Jogwi, Arctic Tern, Ivan, Radu, TommyTheMet
+Cayuga__NY, jogwi, Jogwi, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
+Oswego__NY, jogwi, Jogwi, Ivan, sagittarius998, Radu, TommyTheMet, Piglee, OceanMan
+Jefferson__NY, jogwi, Jogwi, Arctic Tern, Ivan, Radu, TommyTheMet, Piglee
 Lewis__NY, jogwi, Jogwi, TommyTheMet
-Oneida__NY, jogwi, Jogwi, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, PopeMothballsXII, Jaycee, AyjAy011
-Herkimer__NY, jogwi, Jogwi, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, PopeMothballsXII, Jaycee, AyjAy011
+Oneida__NY, jogwi, Jogwi, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, Piglee, PopeMothballsXII, Jaycee, AyjAy011
+Herkimer__NY, jogwi, Jogwi, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, Piglee, PopeMothballsXII, Jaycee, AyjAy011
 Hamilton__NY, jogwi, Jogwi, sagittarius998, train, TommyTheMet, Arija
-Warren__NY, jogwi, Jogwi, mobambachloride, stathx, sagittarius998, Radu, train, TommyTheMet, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee
+Warren__NY, jogwi, Jogwi, mobambachloride, stathx, sagittarius998, Radu, train, TommyTheMet, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee
 Washington__NY, jogwi, Jogwi, mobambachloride, stathx, sagittarius998, train, TommyTheMet, Jaycee
-Rutland__VT, jogwi, Jogwi, mobambachloride, sagittarius998, train, TommyTheMet, ineedaface, EnzoDragon1, Tumnus, Arija, Jaycee
-Windsor__VT, jogwi, Jogwi, mobambachloride, voltaicwaffles, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee
-Grafton__NH, jogwi, Jogwi, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Merrimack__NH, jogwi, Jogwi, mobambachloride, voltaicwaffles, sheepie, stathx, sagittarius998, kp, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Jaycee
-Rockingham__NH, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, kp, Kawi, ineedaface, EnzoDragon1, Tumnus, ocelot, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
+Rutland__VT, jogwi, Jogwi, mobambachloride, sagittarius998, train, TommyTheMet, ineedaface, EnzoDragon1, Piglee, Tumnus, Arija, Jaycee
+Windsor__VT, jogwi, Jogwi, mobambachloride, voltaicwaffles, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee
+Grafton__NH, jogwi, Jogwi, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Merrimack__NH, jogwi, Jogwi, mobambachloride, voltaicwaffles, sheepie, stathx, sagittarius998, kp, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Jaycee
+Rockingham__NH, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, kp, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
 Strafford__NH, jogwi, Jogwi, mobambachloride, Ivan, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, urbanindy, Jaycee
-York__ME, jogwi, Jogwi, Arctic Tern, mobambachloride, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, kp, Kawi, ineedaface, EnzoDragon1, Tumnus, ocelot, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
-Essex__MA, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, kp, ineedaface, Diamond Armor Steve, GeoGamr, EnzoDragon1, Tumnus, ocelot, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
-Middlesex__MA, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, wyatt, FlyingBro, PopeMothballsXII, Arija, urbanindy, Jaycee, Jet, AyjAy011
-Norfolk__MA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee, Jet, AyjAy011
-Bristol__MA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Providence__RI, jogwi, Jogwi, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+York__ME, jogwi, Jogwi, Arctic Tern, mobambachloride, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, kp, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
+Essex__MA, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, kp, ineedaface, Diamond Armor Steve, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
+Middlesex__MA, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, FlyingBro, PopeMothballsXII, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Norfolk__MA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee, Jet, AyjAy011
+Bristol__MA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Providence__RI, jogwi, Jogwi, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
 Newport__RI, jogwi, Jogwi, Arctic Tern, stathx, Popeetoes, sagittarius998, train, ineedaface, Tumnus, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee
-Plymouth__MA, jogwi, Jogwi, Arctic Tern, sheepie, stathx, sagittarius998, train, TommyTheMet, Pencil Vulture, ineedaface, GeoGamr, EnzoDragon1, Tumnus, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Jaycee
-Barnstable__MA, jogwi, Jogwi, Arctic Tern, sheepie, stathx, sagittarius998, train, TommyTheMet, ineedaface, Tumnus, wyatt, PopeMothballsXII, Chicago Geographer, Jaycee
-Kent__RI, jogwi, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Norton, EnzoDragon1, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Washington__RI, jogwi, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Norton, EnzoDragon1, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-New_London__CT, jogwi, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Norton, EnzoDragon1, wyatt, FlyingBro, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Middlesex__CT, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee
-New_Haven__CT, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee, AyjAy011
-Fairfield__CT, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee, AyjAy011
-Westchester__NY, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, AyjAy011
-Bronx__NY, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, klutchEZ, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Tumnus, wyatt, FlyingBro, bam, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, AyjAy011
-New_York__NY, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, DasSchoontz, klutchEZ, soup, Cascadia, train, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, wyatt, FlyingBro, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
-Bergen__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, train, TommyTheMet, kp, ineedaface, Banana Peel Seal, EnzoDragon1, Tumnus, wyatt, bam, PopeMothballsXII, Arctic94, Arija, Jaycee, AyjAy011
-Hudson__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, shinboy, Radu, DasSchoontz, klutchEZ, soup, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, ocelot, wyatt, bam, PopeMothballsXII, Arctic94, Arija, Jaycee, Jet, AyjAy011
-Essex__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, Tumnus, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jaycee, Jet, AyjAy011
-Union__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, EnzoDragon1, Tumnus, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, urbanindy, Jaycee, Jet, AyjAy011
-Middlesex__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
-Mercer__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, Radu, DasSchoontz, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Bradinator, bradinator, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
-Bucks__PA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, Bubba, TommyTheMet, kp, Pencil Vulture, Bradinator, bradinator, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jet
-Philadelphia__PA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, TommyTheMet, kp, Pencil Vulture, Bradinator, bradinator, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, Tumnus, ocelot, muskox, wyatt, ProbablyGeo, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, Jet
-Delaware__PA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Tumnus, ocelot, muskox, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jet
-New_Castle__DE, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
-Cecil__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, EnzoDragon1, ocelot, wyatt, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, Jet
-Harford__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, EnzoDragon1, ocelot, wyatt, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, Jet
-Baltimore_County__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
-Howard__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, TommyTheMet, kp, Dimei, Norton, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, AyjAy011
+Plymouth__MA, jogwi, Jogwi, Arctic Tern, sheepie, stathx, sagittarius998, train, TommyTheMet, Pencil Vulture, ineedaface, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Jaycee
+Barnstable__MA, jogwi, Jogwi, Arctic Tern, sheepie, stathx, sagittarius998, train, TommyTheMet, ineedaface, Piglee, Tumnus, wyatt, PopeMothballsXII, Chicago Geographer, Jaycee
+Kent__RI, jogwi, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Norton, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Washington__RI, jogwi, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Norton, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+New_London__CT, jogwi, Jogwi, Arctic Tern, mobambachloride, sheepie, stathx, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Norton, EnzoDragon1, Piglee, wyatt, FlyingBro, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Middlesex__CT, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee
+New_Haven__CT, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee, AyjAy011
+Fairfield__CT, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arija, Jaycee, AyjAy011
+Westchester__NY, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, AyjAy011
+Bronx__NY, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, klutchEZ, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, bam, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, AyjAy011
+New_York__NY, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, DasSchoontz, klutchEZ, soup, Cascadia, train, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, FlyingBro, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Bergen__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, train, TommyTheMet, kp, ineedaface, Banana Peel Seal, EnzoDragon1, Piglee, Tumnus, wyatt, bam, PopeMothballsXII, Arctic94, Arija, Jaycee, AyjAy011
+Hudson__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, shinboy, Radu, DasSchoontz, klutchEZ, soup, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, ocelot, wyatt, bam, PopeMothballsXII, Arctic94, Arija, Jaycee, Jet, AyjAy011
+Essex__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, Piglee, Tumnus, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jaycee, Jet, AyjAy011
+Union__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, urbanindy, Jaycee, Jet, AyjAy011
+Middlesex__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Mercer__NJ, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, Radu, DasSchoontz, Cascadia, train, TommyTheMet, kp, Pencil Vulture, Bradinator, bradinator, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Bucks__PA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, Bubba, TommyTheMet, kp, Pencil Vulture, Bradinator, bradinator, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, Piglee, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jet
+Philadelphia__PA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, TommyTheMet, kp, Pencil Vulture, Bradinator, bradinator, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, Piglee, Tumnus, ocelot, muskox, wyatt, ProbablyGeo, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, Jet
+Delaware__PA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Piglee, Tumnus, ocelot, muskox, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jet
+New_Castle__DE, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Cecil__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, EnzoDragon1, Piglee, ocelot, wyatt, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, Jet
+Harford__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, EnzoDragon1, Piglee, ocelot, wyatt, PopeMothballsXII, Arctic94, Arija, urbanindy, Jaycee, Jet
+Baltimore_County__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Howard__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, TommyTheMet, kp, Dimei, Norton, EnzoDragon1, Piglee, Tumnus, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, AyjAy011
 Carroll__MD, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, Radu, TommyTheMet, kp, Dimei, EnzoDragon1, PopeMothballsXII, urbanindy, AyjAy011
 Frederick__MD, jogwi, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, sagittarius998, Radu, DasSchoontz, MikeJB, Bubba, kp, Dimei, ineedaface, EnzoDragon1, ocelot, muskox, bam, PopeMothballsXII, Chicago Geographer, Paris_Labrador, urbanindy, AyjAy011
 San_Juan__UT, jogwi, Jogwi, Arctic Tern, cascadia, sheepie, stathx, Popeetoes, shinboy, DasSchoontz, Cascadia, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, gurf, GeoGamr, OceanMan, OKobern, corndog, Chicago Geographer, urbanindy, Jet
@@ -980,17 +980,17 @@ Wadena__MN, jogwi, Jogwi, voltaicwaffles, sheepie, WizardGrape, corndog, Jaycee,
 Beltrami__MN, jogwi, Jogwi, sheepie, stathx, Bradinator, bradinator, WizardGrape, corndog, AyjAy011
 Clearwater__MN, jogwi, Jogwi, sheepie, stathx, Bradinator, bradinator, WizardGrape, corndog, AyjAy011
 Carbon__UT, jogwi, Jogwi, Arctic Tern, voltaicwaffles, Banana Peel Seal, gurf, OceanMan
-Oconee__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, muskox, PopeMothballsXII, Chicago Geographer, Jet
-Anderson__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, muskox, PopeMothballsXII, Jet
-Greenville__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Tumnus, muskox, OKobern, PopeMothballsXII, Chicago Geographer, Jet
-Spartanburg__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, kp, Norton, GeoGamr, Tumnus, muskox, PopeMothballsXII, urbanindy, Jaycee, Jet
-Cherokee__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Tumnus, muskox, PopeMothballsXII, Jaycee, Jet
-Cleveland__NC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, kp, fbmdf1821, GeoGamr, Tumnus, ocelot, muskox, PopeMothballsXII, Jaycee, Jet
-Gaston__NC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, kp, fbmdf1821, GeoGamr, Tumnus, ocelot, muskox, PopeMothballsXII, Jaycee, Jet
-Mecklenburg__NC, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sagittarius998, shinboy, Radu, soup, TommyTheMet, kp, fbmdf1821, Apollobo, Norton, GeoGamr, Tumnus, ocelot, muskox, PopeMothballsXII, Chicago Geographer, Arija, JayDoo909, Jaycee, Jet, AyjAy011
-Cabarrus__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, GeoGamr, ocelot, muskox, PopeMothballsXII, Arija, Jet
-Rowan__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Bubba, GeoGamr, ocelot, muskox, PopeMothballsXII, Jet
-Davidson__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Bubba, GeoGamr, ocelot, muskox, PopeMothballsXII, Jet
+Oconee__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, muskox, PopeMothballsXII, Chicago Geographer, Jet
+Anderson__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, muskox, PopeMothballsXII, Jet
+Greenville__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, Tumnus, muskox, OKobern, PopeMothballsXII, Chicago Geographer, Jet
+Spartanburg__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, kp, Norton, GeoGamr, Piglee, Tumnus, muskox, PopeMothballsXII, urbanindy, Jaycee, Jet
+Cherokee__SC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, GeoGamr, Piglee, Tumnus, muskox, PopeMothballsXII, Jaycee, Jet
+Cleveland__NC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, kp, fbmdf1821, GeoGamr, Piglee, Tumnus, ocelot, muskox, PopeMothballsXII, Jaycee, Jet
+Gaston__NC, jogwi, stupiddrew9, Jogwi, cascadia, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Cascadia, kp, fbmdf1821, GeoGamr, Piglee, Tumnus, ocelot, muskox, PopeMothballsXII, Jaycee, Jet
+Mecklenburg__NC, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sagittarius998, shinboy, Radu, soup, TommyTheMet, kp, fbmdf1821, Apollobo, Norton, GeoGamr, Piglee, Tumnus, ocelot, muskox, PopeMothballsXII, Chicago Geographer, Arija, JayDoo909, Jaycee, Jet, AyjAy011
+Cabarrus__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, GeoGamr, Piglee, ocelot, muskox, PopeMothballsXII, Arija, Jet
+Rowan__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Bubba, GeoGamr, Piglee, ocelot, muskox, PopeMothballsXII, Jet
+Davidson__NC, jogwi, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, soup, Bubba, GeoGamr, Piglee, ocelot, muskox, PopeMothballsXII, Jet
 Rockdale__GA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, Radu, soup, Cascadia, TommyTheMet, kp, GeoGamr, FlyingBro, urbanindy, Jet
 Newton__GA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, Radu, soup, Cascadia, TommyTheMet, kp, GeoGamr, FlyingBro, urbanindy, Jet
 Walton__GA, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, Radu, soup, Cascadia, kp, FlyingBro, Jet
@@ -1006,10 +1006,10 @@ Lexington__SC, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride
 Richland__SC, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, shinboy, Radu, soup, Cascadia, TommyTheMet, kp, Apollobo, Norton, GeoGamr, Tumnus, ocelot, muskox, FlyingBro, Chicago Geographer, Arija, urbanindy, Jet
 Kershaw__SC, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, soup, Cascadia, Tumnus, ocelot, muskox, Jet
 Lee__SC, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, shinboy, Radu, Cascadia, Tumnus, ocelot, muskox
-Darlington__SC, jogwi, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, EnzoDragon1, Tumnus, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
-Florence__SC, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, Cascadia, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Tumnus, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Dillon__SC, jogwi, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Marlboro__SC, jogwi, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Darlington__SC, jogwi, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
+Florence__SC, jogwi, Jogwi, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, Cascadia, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, Tumnus, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Dillon__SC, jogwi, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Marlboro__SC, jogwi, Jogwi, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
 Pulaski__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, Tumnus, ocelot, muskox, FlyingBro
 Montgomery__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, shinboy, Radu, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, Tumnus, ocelot, FlyingBro, Arija
 Rockbridge__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Cascadia, TommyTheMet, kp, Diamond Armor Steve, fbmdf1821, GeoGamr, Tumnus, OceanMan, FlyingBro, PopeMothballsXII, Paris_Labrador, urbanindy, Jet
@@ -1020,12 +1020,12 @@ Orange__VA, jogwi, Jogwi, mobambachloride, voltaicwaffles, sagittarius998, shinb
 Culpeper__VA, jogwi, Jogwi, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, shinboy, kp, Diamond Armor Steve, FlyingBro, PopeMothballsXII, urbanindy
 Madison__VA, jogwi, Jogwi, Arctic Tern, cascadia, voltaicwaffles, sheepie, Popeetoes, sagittarius998, shinboy, Cascadia, kp, Diamond Armor Steve, ocelot, FlyingBro, PopeMothballsXII, urbanindy, Jet
 Fauquier__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, voltaicwaffles, Popeetoes, sagittarius998, Bubba, Cascadia, Dimei, ineedaface, Diamond Armor Steve, GeoGamr, OceanMan, FlyingBro, PopeMothballsXII, urbanindy
-Prince_William__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, Radu, Bubba, Cascadia, TommyTheMet, kp, Dimei, Diamond Armor Steve, GeoGamr, EnzoDragon1, ocelot, muskox, OceanMan, wyatt, FlyingBro, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, urbanindy, Jet
-Fairfax_Co___VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, MikeJB, Bubba, Cascadia, TommyTheMet, kp, Dimei, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, ocelot, muskox, OceanMan, wyatt, FlyingBro, OKobern, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jet, AyjAy011
-Montgomery__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, sagittarius998, Radu, DasSchoontz, MikeJB, Bubba, Cascadia, TommyTheMet, Dimei, Norton, GeoGamr, EnzoDragon1, muskox, bam, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, AyjAy011
-Arlington__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, MikeJB, Bubba, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, ocelot, muskox, OceanMan, wyatt, FlyingBro, OKobern, corndog, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jaycee, Jet, AyjAy011
-Alexandria__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, kp, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, wyatt, FlyingBro, corndog, bam, ProbablyGeo, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jet, AyjAy011
-Washington__DC, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, DasSchoontz, MikeJB, Bubba, train, TommyTheMet, kp, Pencil Vulture, Dimei, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, OceanMan, wyatt, FlyingBro, OKobern, corndog, bam, ProbablyGeo, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jaycee, Jet, AyjAy011
+Prince_William__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, Radu, Bubba, Cascadia, TommyTheMet, kp, Dimei, Diamond Armor Steve, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OceanMan, wyatt, FlyingBro, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, urbanindy, Jet
+Fairfax_Co___VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, MikeJB, Bubba, Cascadia, TommyTheMet, kp, Dimei, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OceanMan, wyatt, FlyingBro, OKobern, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jet, AyjAy011
+Montgomery__MD, jogwi, stupiddrew9, Jogwi, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, sagittarius998, Radu, DasSchoontz, MikeJB, Bubba, Cascadia, TommyTheMet, Dimei, Norton, GeoGamr, EnzoDragon1, Piglee, muskox, bam, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, AyjAy011
+Arlington__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, MikeJB, Bubba, train, TommyTheMet, kp, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OceanMan, wyatt, FlyingBro, OKobern, corndog, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jaycee, Jet, AyjAy011
+Alexandria__VA, jogwi, stupiddrew9, Jogwi, Arctic Tern, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, kp, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, Piglee, wyatt, FlyingBro, corndog, bam, ProbablyGeo, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jet, AyjAy011
+Washington__DC, jogwi, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, DasSchoontz, MikeJB, Bubba, train, TommyTheMet, kp, Pencil Vulture, Dimei, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, OceanMan, wyatt, FlyingBro, OKobern, corndog, bam, ProbablyGeo, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, JayDoo909, Jaycee, Jet, AyjAy011
 Amador__CA, jogwi, Jogwi, gurf, Jet
 Calaveras__CA, jogwi, Jogwi, Arctic Tern, gurf, Jet
 San_Joaquin__CA, jogwi, Jogwi, Arctic Tern, cascadia, 5ummrtime, Radu, Cascadia, Pencil Vulture, Diamond Armor Steve, Banana Peel Seal, gurf, Norton, Tumnus, bam
@@ -1092,7 +1092,7 @@ Tippecanoe__IN, stupiddrew9, mobambachloride, voltaicwaffles, Ivan, shinboy, Das
 Dare__NC, stupiddrew9, cascadia, voltaicwaffles, Popeetoes, sagittarius998, Radu, Cascadia, TommyTheMet, Diamond Armor Steve, ocelot, OKobern, Paris_Labrador, Jet
 Washtenaw__MI, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, stathx, Popeetoes, DasSchoontz, MikeJB, ineedaface, UCLA_Jesus, Chicago Geographer, Paris_Labrador, urbanindy
 Ottawa__OH, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, MikeJB, train, Bradinator, bradinator, ineedaface, Apollobo, Banana Peel Seal, Norton, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee, Jet, AyjAy011
-Suffolk__MA, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Suffolk__MA, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, Radu, train, TommyTheMet, kp, Pencil Vulture, Kawi, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, Jet, AyjAy011
 Forsyth__GA, stupiddrew9, shinboy, Radu, kp, Jet
 Clarke__GA, stupiddrew9, shinboy, Radu, kp, Jo
 Beaufort__SC, stupiddrew9, cascadia, mobambachloride, sheepie, shinboy, Radu, Cascadia, TommyTheMet, Norton, GeoGamr, Tumnus, ocelot, muskox, FlyingBro, Chicago Geographer, Arctic94, Arija, urbanindy, Jet, Littleduck
@@ -1117,12 +1117,12 @@ Hancock__MS, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes,
 Harrison__MS, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, TommyTheMet, Tumnus, FlyingBro, OKobern, Chicago Geographer, JayDoo909, Jet
 Calhoun__FL, stupiddrew9, shinboy
 Liberty__FL, stupiddrew9, shinboy
-Gadsden__FL, stupiddrew9, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, OKobern, JayDoo909, Jet
-Leon__FL, stupiddrew9, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, OKobern, Arija, JayDoo909, Jet
-Jefferson__FL, stupiddrew9, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, OKobern, Arija, JayDoo909, Jet
-Madison__FL, stupiddrew9, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, OKobern, Arija, JayDoo909, Jet
-Suwannee__FL, stupiddrew9, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, muskox, OKobern, Chicago Geographer, Arija, Paris_Labrador, JayDoo909, Jet, AyjAy011
-Columbia__FL, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, muskox, OKobern, Chicago Geographer, Arija, Paris_Labrador, JayDoo909, Jet, AyjAy011
+Gadsden__FL, stupiddrew9, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, Piglee, OKobern, JayDoo909, Jet
+Leon__FL, stupiddrew9, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, Piglee, OKobern, Arija, JayDoo909, Jet
+Jefferson__FL, stupiddrew9, mobambachloride, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, Piglee, OKobern, Arija, JayDoo909, Jet
+Madison__FL, stupiddrew9, 5ummrtime, Popeetoes, shinboy, klutchEZ, GeoGamr, Piglee, OKobern, Arija, JayDoo909, Jet
+Suwannee__FL, stupiddrew9, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, Piglee, muskox, OKobern, Chicago Geographer, Arija, Paris_Labrador, JayDoo909, Jet, AyjAy011
+Columbia__FL, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, Piglee, muskox, OKobern, Chicago Geographer, Arija, Paris_Labrador, JayDoo909, Jet, AyjAy011
 Alachua__FL, stupiddrew9, voltaicwaffles, 5ummrtime, Ivan, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, muskox, OKobern, Chicago Geographer, Arija, Paris_Labrador, JayDoo909, Jet, AyjAy011
 Marion__FL, stupiddrew9, voltaicwaffles, 5ummrtime, Ivan, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, muskox, OKobern, Chicago Geographer, Arija, Paris_Labrador, JayDoo909, Jet, AyjAy011
 Lake__FL, stupiddrew9, voltaicwaffles, 5ummrtime, shinboy, Radu, klutchEZ, soup, kp, Kawi, GeoGamr, muskox, OKobern, Chicago Geographer, Arija, JayDoo909, Jet, AyjAy011
@@ -1138,21 +1138,21 @@ Flagler__FL, stupiddrew9, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Ra
 St__Johns__FL, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Kawi, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arija, JayDoo909, Jet
 Clay__FL, stupiddrew9, voltaicwaffles, 5ummrtime, shinboy, kp, Arija
 Bradford__FL, stupiddrew9, 5ummrtime, shinboy, kp
-Duval__FL, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Kawi, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arija, JayDoo909, Jet
-Nassau__FL, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Kawi, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arija, JayDoo909, Jet
-Camden__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arija, Jet
-McIntosh__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arija, urbanindy, Jet
-Glynn__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arija, urbanindy, Jet
-Liberty__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arija, urbanindy, Jet
-Chatham__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet, Littleduck
-Bryan__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, FlyingBro, OKobern, PopeMothballsXII, Arija, urbanindy, Jet, Littleduck
-Effingham__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, Diamond Armor Steve, GeoGamr, Tumnus, ocelot, muskox, FlyingBro, OKobern, PopeMothballsXII, Arija, urbanindy, Jet, Littleduck
-Jasper__SC, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, Cascadia, TommyTheMet, kp, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet, Littleduck
-Colleton__SC, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, Cascadia, TommyTheMet, Diamond Armor Steve, Norton, EnzoDragon1, Tumnus, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet
+Duval__FL, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Kawi, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OKobern, PopeMothballsXII, Arija, JayDoo909, Jet
+Nassau__FL, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Kawi, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OKobern, PopeMothballsXII, Arija, JayDoo909, Jet
+Camden__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OKobern, PopeMothballsXII, Arija, Jet
+McIntosh__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OKobern, PopeMothballsXII, Arija, urbanindy, Jet
+Glynn__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OKobern, PopeMothballsXII, Arija, urbanindy, Jet
+Liberty__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, OKobern, PopeMothballsXII, Arija, urbanindy, Jet
+Chatham__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, FlyingBro, OKobern, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet, Littleduck
+Bryan__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, TommyTheMet, kp, Diamond Armor Steve, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, FlyingBro, OKobern, PopeMothballsXII, Arija, urbanindy, Jet, Littleduck
+Effingham__GA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, soup, Bubba, Diamond Armor Steve, GeoGamr, Piglee, Tumnus, ocelot, muskox, FlyingBro, OKobern, PopeMothballsXII, Arija, urbanindy, Jet, Littleduck
+Jasper__SC, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, Cascadia, TommyTheMet, kp, Diamond Armor Steve, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet, Littleduck
+Colleton__SC, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, sagittarius998, shinboy, Radu, klutchEZ, soup, Bubba, Cascadia, TommyTheMet, Diamond Armor Steve, Norton, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet
 Charleston__SC, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, sheepie, stathx, shinboy, Radu, klutchEZ, soup, Cascadia, TommyTheMet, kp, Diamond Armor Steve, Norton, Tumnus, ocelot, muskox, FlyingBro, Chicago Geographer, Arija, urbanindy, Jet
-Dorchester__SC, stupiddrew9, cascadia, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, Cascadia, TommyTheMet, kp, Diamond Armor Steve, Norton, EnzoDragon1, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet
-Hampton__SC, stupiddrew9, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, kp, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Orangeburg__SC, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, Cascadia, TommyTheMet, kp, Diamond Armor Steve, Norton, EnzoDragon1, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet
+Dorchester__SC, stupiddrew9, cascadia, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, Cascadia, TommyTheMet, kp, Diamond Armor Steve, Norton, EnzoDragon1, Piglee, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet
+Hampton__SC, stupiddrew9, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, kp, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Orangeburg__SC, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, Cascadia, TommyTheMet, kp, Diamond Armor Steve, Norton, EnzoDragon1, Piglee, ocelot, muskox, FlyingBro, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jet
 Calhoun__SC, stupiddrew9, cascadia, voltaicwaffles, 5ummrtime, shinboy, Radu, soup, Cascadia, TommyTheMet, kp, Apollobo, Norton, ocelot, muskox, FlyingBro, Chicago Geographer, Arija, urbanindy, Jet
 Grundy__TN, stupiddrew9, Arctic Tern, mobambachloride, Ivan, shinboy, Radu, kp, Kawi, fbmdf1821, Norton, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
 Cannon__TN, stupiddrew9, shinboy, kp
@@ -1171,7 +1171,7 @@ Cherokee__GA, stupiddrew9, mobambachloride, Ivan, shinboy, Radu, klutchEZ, kp, K
 Bartow__GA, stupiddrew9, mobambachloride, Ivan, shinboy, Radu, klutchEZ, TommyTheMet, kp, Kawi, Norton, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
 Whitfield__GA, stupiddrew9, mobambachloride, Ivan, shinboy, Radu, TommyTheMet, kp, Kawi, Norton, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
 Catoosa__GA, stupiddrew9, mobambachloride, Ivan, shinboy, Radu, TommyTheMet, kp, Kawi, Norton, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
-Clayton__GA, stupiddrew9, Arctic Tern, cascadia, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, shinboy, Radu, klutchEZ, soup, Cascadia, kp, Pencil Vulture, Kawi, Diamond Armor Steve, Jo, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee, Jet, Littleduck, AyjAy011
+Clayton__GA, stupiddrew9, Arctic Tern, cascadia, voltaicwaffles, 5ummrtime, Ivan, sheepie, Popeetoes, shinboy, Radu, klutchEZ, soup, Cascadia, kp, Pencil Vulture, Kawi, Diamond Armor Steve, Jo, Norton, GeoGamr, Piglee, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee, Jet, Littleduck, AyjAy011
 Coweta__GA, stupiddrew9, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, FlyingBro, Jet
 Meriwether__GA, stupiddrew9, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, FlyingBro, Jet
 Troup__GA, stupiddrew9, mobambachloride, voltaicwaffles, sheepie, sagittarius998, shinboy, Radu, FlyingBro, Jet
@@ -1187,9 +1187,9 @@ Wilkes__NC, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles,
 Surry__NC, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Cascadia, TommyTheMet, Tumnus, ocelot, muskox, Chicago Geographer, Jet
 Yadkin__NC, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, 5ummrtime, shinboy, Radu, soup, TommyTheMet, Tumnus, ocelot, muskox, Chicago Geographer, Jet
 Stokes__NC, stupiddrew9, mobambachloride, voltaicwaffles, Radu, soup, ocelot, muskox, Jet
-Randolph__NC, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, Radu, soup, Bubba, GeoGamr, ocelot, muskox, OceanMan, PopeMothballsXII, Arija, Jet
+Randolph__NC, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, Radu, soup, Bubba, GeoGamr, Piglee, ocelot, muskox, OceanMan, PopeMothballsXII, Arija, Jet
 Franklin__NC, stupiddrew9, voltaicwaffles, sagittarius998, soup, Bubba, ocelot, muskox, OKobern, Jet
-Nash__NC, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, OKobern, PopeMothballsXII, Arctic94, Arija, Jet
+Nash__NC, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, OKobern, PopeMothballsXII, Arctic94, Arija, Jet
 Edgecombe__NC, stupiddrew9, mobambachloride, voltaicwaffles, Bubba, Tumnus, ocelot, muskox, OKobern, Jet
 Martin__NC, stupiddrew9, voltaicwaffles, Ivan, Popeetoes, Radu, Bubba, Tumnus, ocelot, muskox, OKobern, Jet
 Washington__NC, stupiddrew9, voltaicwaffles, Popeetoes, Radu, ocelot, OKobern, Jet
@@ -1252,13 +1252,13 @@ Livingston__MI, stupiddrew9, Jogwi, mobambachloride, voltaicwaffles, stathx, Pop
 Wayne__MI, stupiddrew9, Arctic Tern, cascadia, mobambachloride, Ivan, sheepie, stathx, shinboy, DasSchoontz, MikeJB, Cascadia, TommyTheMet, UCLA_Jesus, Norton, Paris_Labrador, urbanindy
 Monroe__MI, stupiddrew9, Jogwi, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, stathx, Popeetoes, DasSchoontz, MikeJB, ineedaface, urbanindy
 Berkeley__WV, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, sagittarius998, Radu, TommyTheMet, kp, ineedaface, Tumnus, PopeMothballsXII, Jet
-Prince_George_s__MD, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, Pencil Vulture, Dimei, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, wyatt, OKobern, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Prince_George_s__MD, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, Pencil Vulture, Dimei, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, wyatt, OKobern, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
 Anne_Arundel__MD, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, Popeetoes, sagittarius998, Radu, Bubba, train, TommyTheMet, Pencil Vulture, Dimei, Kawi, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, wyatt, ProbablyGeo, PopeMothballsXII, urbanindy, Jaycee, Jet, AyjAy011
-Baltimore_City__MD, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, GeoGamr, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Baltimore_City__MD, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, Pencil Vulture, ineedaface, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
 Salem__NJ, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Cascadia, train, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Arctic94, Jaycee, AyjAy011
 Gloucester__NJ, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, ineedaface, Diamond Armor Steve, Norton, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Arctic94, Jaycee, AyjAy011
 Camden__NJ, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, ineedaface, Diamond Armor Steve, Norton, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Arctic94, Jaycee, AyjAy011
-Burlington__NJ, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, urbanindy, Jaycee, AyjAy011
+Burlington__NJ, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, Popeetoes, sagittarius998, Radu, DasSchoontz, Bubba, Cascadia, train, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, Piglee, Tumnus, ocelot, wyatt, PopeMothballsXII, Chicago Geographer, Arctic94, urbanindy, Jaycee, AyjAy011
 Montgomery__PA, stupiddrew9, Arctic Tern, mobambachloride, sagittarius998, Bubba, TommyTheMet, Bradinator, bradinator, Banana Peel Seal, Norton, Tumnus, muskox, PopeMothballsXII, Chicago Geographer, Jaycee
 Chester__PA, stupiddrew9, Arctic Tern, mobambachloride, sagittarius998, Radu, Bubba, Bradinator, bradinator, Diamond Armor Steve, Banana Peel Seal, Norton, Tumnus, muskox, PopeMothballsXII, Chicago Geographer
 Lancaster__PA, stupiddrew9, Arctic Tern, mobambachloride, sagittarius998, Bubba, TommyTheMet, Bradinator, bradinator, ineedaface, Diamond Armor Steve, Banana Peel Seal, Norton, Tumnus, muskox, PopeMothballsXII, Chicago Geographer
@@ -1283,9 +1283,9 @@ Putnam__NY, stupiddrew9, stathx, sagittarius998, TommyTheMet, kp, ineedaface, En
 Dutchess__NY, stupiddrew9, stathx, sagittarius998, train, ineedaface, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Jaycee, AyjAy011
 Orange__NY, stupiddrew9, sheepie, sagittarius998, Radu, train, TommyTheMet, ineedaface, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Arctic94, urbanindy, Jaycee, AyjAy011
 Litchfield__CT, stupiddrew9, stathx, sagittarius998, TommyTheMet, ineedaface, Diamond Armor Steve, Apollobo, EnzoDragon1, wyatt, PopeMothballsXII, Jaycee, AyjAy011
-Hartford__CT, stupiddrew9, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, train, TommyTheMet, kp, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, GeoGamr, EnzoDragon1, Tumnus, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee, AyjAy011
-Hampden__MA, stupiddrew9, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, kp, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
-Hampshire__MA, stupiddrew9, stathx, sagittarius998, train, TommyTheMet, kp, ineedaface, Apollobo, Banana Peel Seal, wyatt, OKobern, PopeMothballsXII, Jaycee
+Hartford__CT, stupiddrew9, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, train, TommyTheMet, kp, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee, AyjAy011
+Hampden__MA, stupiddrew9, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, kp, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
+Hampshire__MA, stupiddrew9, stathx, sagittarius998, train, TommyTheMet, kp, ineedaface, Apollobo, Banana Peel Seal, Piglee, wyatt, OKobern, PopeMothballsXII, Jaycee
 Carlton__MN, stupiddrew9, sheepie, stathx, Bradinator, bradinator, Kawi, WizardGrape, corndog, Arija, AyjAy011
 Pine__MN, stupiddrew9, sheepie, Bradinator, bradinator, Kawi, WizardGrape, corndog, Arija, Jaycee, AyjAy011
 Chisago__MN, stupiddrew9, sheepie, Bradinator, bradinator, Kawi, Apollobo, WizardGrape, Tumnus, corndog, Arija, AyjAy011
@@ -1300,7 +1300,7 @@ Maricopa__AZ, stupiddrew9, Arctic Tern, cascadia, voltaicwaffles, 5ummrtime, Iva
 Meigs__TN, stupiddrew9, shinboy, kp, Norton
 Norton__VA, stupiddrew9, stathx, sagittarius998, shinboy
 Gilmer__WV, stupiddrew9, Arctic Tern, mobambachloride, 5ummrtime, sagittarius998, kp
-Kings__NY, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, klutchEZ, soup, train, TommyTheMet, kp, Diamond Armor Steve, UCLA_Jesus, Norton, GeoGamr, EnzoDragon1, FlyingBro, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
+Kings__NY, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, klutchEZ, soup, train, TommyTheMet, kp, Diamond Armor Steve, UCLA_Jesus, Norton, GeoGamr, EnzoDragon1, Piglee, FlyingBro, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, urbanindy, Jaycee, Jet, AyjAy011
 Dawson__GA, stupiddrew9, mobambachloride, shinboy, Radu, urbanindy, Jet
 Lawrence__TN, stupiddrew9, shinboy, DasSchoontz, Jet
 Pope__IL, stupiddrew9, stathx, shinboy, urbanindy
@@ -1308,7 +1308,7 @@ Madison__IL, stupiddrew9, Arctic Tern, Ivan, stathx, Popeetoes, shinboy, DasScho
 York__VA, stupiddrew9, mobambachloride, sheepie, Popeetoes, sagittarius998, shinboy, soup, ineedaface, Diamond Armor Steve, fbmdf1821, ocelot, muskox, PopeMothballsXII, Arija, Paris_Labrador, Jet
 James_City__VA, stupiddrew9, mobambachloride, sheepie, Popeetoes, sagittarius998, shinboy, soup, ineedaface, Diamond Armor Steve, fbmdf1821, ocelot, muskox, PopeMothballsXII, Arija, Paris_Labrador, Jet
 New_Kent__VA, stupiddrew9, mobambachloride, sheepie, Popeetoes, sagittarius998, shinboy, Diamond Armor Steve, fbmdf1821, ocelot, muskox, PopeMothballsXII, Arija, Paris_Labrador, Jet
-Richmond__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, Popeetoes, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, Diamond Armor Steve, fbmdf1821, GeoGamr, EnzoDragon1, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
+Richmond__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, Popeetoes, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, Diamond Armor Steve, fbmdf1821, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
 Goochland__VA, stupiddrew9, voltaicwaffles, sheepie, Popeetoes, Diamond Armor Steve, fbmdf1821, PopeMothballsXII, Paris_Labrador, Jet
 Louisa__VA, stupiddrew9, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, shinboy, Diamond Armor Steve, fbmdf1821, PopeMothballsXII, Paris_Labrador
 Fluvanna__VA, stupiddrew9, mobambachloride, sheepie, Popeetoes, shinboy, Diamond Armor Steve, fbmdf1821, PopeMothballsXII, Paris_Labrador
@@ -1388,7 +1388,7 @@ Stephens__GA, stupiddrew9, mobambachloride, shinboy, Radu, soup, Jet
 Habersham__GA, stupiddrew9, mobambachloride, shinboy, Radu, soup, Chicago Geographer, Jet
 White__GA, stupiddrew9, mobambachloride, shinboy, Radu, soup, Chicago Geographer, Jet
 Lumpkin__GA, stupiddrew9, mobambachloride, shinboy, Radu, PopeMothballsXII, Jet
-Los_Angeles__CA, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, stathx, shinboy, Radu, DasSchoontz, klutchEZ, soup, Cascadia, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Jo, Banana Peel Seal, gurf, Norton, GeoGamr, Tumnus, OceanMan, FlyingBro, OKobern, corndog, bam, ProbablyGeo, Chicago Geographer, Paris_Labrador, urbanindy, JayDoo909, Jet
+Los_Angeles__CA, stupiddrew9, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, stathx, shinboy, Radu, DasSchoontz, klutchEZ, soup, Cascadia, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Jo, Banana Peel Seal, gurf, Norton, GeoGamr, Piglee, Tumnus, OceanMan, FlyingBro, OKobern, corndog, bam, ProbablyGeo, Chicago Geographer, Paris_Labrador, urbanindy, JayDoo909, Jet
 Richland__IL, stupiddrew9, sheepie, stathx, shinboy
 Jasper__IL, stupiddrew9, stathx, shinboy
 Effingham__IL, stupiddrew9, sheepie, stathx, shinboy, DasSchoontz, MikeJB, TommyTheMet, kp, Kawi, Tumnus, OKobern, Chicago Geographer, urbanindy, AyjAy011
@@ -1405,10 +1405,10 @@ Patrick__VA, stupiddrew9, Arctic Tern, cascadia, voltaicwaffles, sagittarius998,
 Henry__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, Diamond Armor Steve, ocelot, muskox, OceanMan, Arija
 Martinsville__VA, stupiddrew9, voltaicwaffles, Diamond Armor Steve, muskox
 Halifax__VA, stupiddrew9, soup, Diamond Armor Steve, ocelot, muskox, PopeMothballsXII
-Mecklenburg__VA, stupiddrew9, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, ocelot, muskox, PopeMothballsXII, Jet
-Brunswick__VA, stupiddrew9, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, ocelot, muskox, PopeMothballsXII, Jet
-Greensville__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Emporia__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, Diamond Armor Steve, EnzoDragon1, PopeMothballsXII, Arctic94, Arija, Jet
+Mecklenburg__VA, stupiddrew9, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, Piglee, ocelot, muskox, PopeMothballsXII, Jet
+Brunswick__VA, stupiddrew9, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, Piglee, ocelot, muskox, PopeMothballsXII, Jet
+Greensville__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Emporia__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, Diamond Armor Steve, EnzoDragon1, Piglee, PopeMothballsXII, Arctic94, Arija, Jet
 Southampton__VA, stupiddrew9, voltaicwaffles, soup, Diamond Armor Steve, ocelot, muskox, PopeMothballsXII, Arija
 Franklin__VA, stupiddrew9, voltaicwaffles, Diamond Armor Steve, muskox
 Suffolk__VA, stupiddrew9, voltaicwaffles, sagittarius998, shinboy, soup, Diamond Armor Steve, ocelot, muskox, PopeMothballsXII, Arija, Paris_Labrador
@@ -1418,10 +1418,10 @@ Norfolk__VA, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, sheepie, Po
 Virginia_Beach__VA, stupiddrew9, cascadia, mobambachloride, voltaicwaffles, sheepie, Popeetoes, sagittarius998, shinboy, soup, Bubba, Cascadia, TommyTheMet, ineedaface, Diamond Armor Steve, Tumnus, ocelot, muskox, PopeMothballsXII, Arija, Jet
 Hampton__VA, stupiddrew9, mobambachloride, sheepie, Popeetoes, sagittarius998, shinboy, soup, ineedaface, Diamond Armor Steve, PopeMothballsXII, Arija, Paris_Labrador, Jet
 Newport_News__VA, stupiddrew9, mobambachloride, sheepie, Popeetoes, sagittarius998, shinboy, soup, ineedaface, Diamond Armor Steve, fbmdf1821, PopeMothballsXII, Arija, Paris_Labrador, Jet
-Henrico__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, Popeetoes, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, fbmdf1821, GeoGamr, EnzoDragon1, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
+Henrico__VA, stupiddrew9, mobambachloride, voltaicwaffles, 5ummrtime, sheepie, Popeetoes, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, fbmdf1821, GeoGamr, EnzoDragon1, Piglee, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
 Charlottesville__VA, stupiddrew9, Arctic Tern, mobambachloride, sheepie, Popeetoes, sagittarius998, shinboy, kp, Diamond Armor Steve, fbmdf1821, ocelot, FlyingBro, PopeMothballsXII, Paris_Labrador, urbanindy
-Cook__IL, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, DasSchoontz, MikeJB, train, TommyTheMet, kp, Pencil Vulture, Bradinator, Dimei, bradinator, Kawi, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Tumnus, ocelot, muskox, OKobern, corndog, bam, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, bennyman, JayDoo909, Jaycee, AyjAy011
-Franklin__MA, stupiddrew9, stathx, sagittarius998, train, TommyTheMet, kp, ineedaface, Apollobo, EnzoDragon1, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee
+Cook__IL, stupiddrew9, Arctic Tern, mobambachloride, voltaicwaffles, Ivan, sheepie, stathx, Popeetoes, sagittarius998, shinboy, DasSchoontz, MikeJB, train, TommyTheMet, kp, Pencil Vulture, Bradinator, Dimei, bradinator, Kawi, ineedaface, Diamond Armor Steve, UCLA_Jesus, Apollobo, Banana Peel Seal, Norton, GeoGamr, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, OKobern, corndog, bam, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, bennyman, JayDoo909, Jaycee, AyjAy011
+Franklin__MA, stupiddrew9, stathx, sagittarius998, train, TommyTheMet, kp, ineedaface, Apollobo, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee
 Tazewell__VA, stupiddrew9, mobambachloride
 Russell__VA, stupiddrew9, mobambachloride, sagittarius998, shinboy
 Scott__VA, stupiddrew9, voltaicwaffles, sagittarius998, shinboy, fbmdf1821, Chicago Geographer
@@ -1494,7 +1494,7 @@ Wayne__IL, Jogwi, cascadia, voltaicwaffles, stathx, Cascadia, fbmdf1821, WizardG
 White__IL, Jogwi, cascadia, voltaicwaffles, stathx, shinboy, Cascadia, fbmdf1821, WizardGrape, OKobern, Chicago Geographer, urbanindy, Jet
 Posey__IN, Jogwi, cascadia, voltaicwaffles, shinboy, Cascadia, fbmdf1821, WizardGrape, OKobern, urbanindy, Jet
 Daviess__KY, Jogwi, cascadia, voltaicwaffles, shinboy, Cascadia, fbmdf1821, Littleduck
-Queens__NY, Jogwi, Arctic Tern, mobambachloride, stathx, sagittarius998, shinboy, Radu, klutchEZ, soup, TommyTheMet, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Norton, Tumnus, FlyingBro, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, Jaycee, AyjAy011
+Queens__NY, Jogwi, Arctic Tern, mobambachloride, stathx, sagittarius998, shinboy, Radu, klutchEZ, soup, TommyTheMet, Pencil Vulture, Diamond Armor Steve, UCLA_Jesus, Norton, Piglee, Tumnus, FlyingBro, bam, PopeMothballsXII, Chicago Geographer, Arctic94, Arija, Paris_Labrador, urbanindy, Jaycee, AyjAy011
 Meade__SD, Jogwi, mobambachloride, stathx, DasSchoontz, klutchEZ, TommyTheMet, Norton, WizardGrape, Tumnus, OceanMan, Chicago Geographer, AyjAy011
 Alameda__CA, Arctic Tern, cascadia, mobambachloride, shinboy, Radu, Cascadia, Pencil Vulture, Kawi, Diamond Armor Steve, UCLA_Jesus, Banana Peel Seal, gurf, Norton, bam, urbanindy
 Contra_Costa__CA, Arctic Tern, cascadia, mobambachloride, Radu, Cascadia, Pencil Vulture, Kawi, Banana Peel Seal, gurf, Norton, bam
@@ -1552,7 +1552,7 @@ Mason__WA, Arctic Tern, cascadia, shinboy, Pencil Vulture, gurf, Tumnus, OKobern
 Thurston__WA, Arctic Tern, cascadia, mobambachloride, 5ummrtime, sheepie, shinboy, Cascadia, Pencil Vulture, Banana Peel Seal, gurf, Tumnus, FlyingBro, OKobern, Arija
 Cowlitz__WA, Arctic Tern, cascadia, mobambachloride, 5ummrtime, sheepie, shinboy, Cascadia, Pencil Vulture, Banana Peel Seal, gurf, Tumnus, FlyingBro, OKobern, Arija
 Clark__WA, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, 5ummrtime, shinboy, Cascadia, Pencil Vulture, UCLA_Jesus, Banana Peel Seal, gurf, Tumnus, OceanMan, FlyingBro, OKobern, corndog, PopeMothballsXII, Arija
-Richmond__NY, Arctic Tern, mobambachloride, sagittarius998, Radu, TommyTheMet, wyatt, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, AyjAy011
+Richmond__NY, Arctic Tern, mobambachloride, sagittarius998, Radu, TommyTheMet, Piglee, wyatt, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, AyjAy011
 Lincoln__ID, Arctic Tern, cascadia, Cascadia, FlyingBro, OKobern
 Big_Horn__WY, Arctic Tern, stathx, DasSchoontz, klutchEZ, WizardGrape
 Rock__MN, Arctic Tern, cascadia, voltaicwaffles, sheepie, Popeetoes, DasSchoontz, Cascadia, WizardGrape, OceanMan, corndog, Chicago Geographer, AyjAy011
@@ -1637,33 +1637,33 @@ Livingston__NY, Arctic Tern, sagittarius998, TommyTheMet, Norton, Chicago Geogra
 Susquehanna__PA, Arctic Tern, voltaicwaffles, sagittarius998, TommyTheMet, ineedaface, Norton, PopeMothballsXII
 Broome__NY, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, TommyTheMet, ineedaface, Apollobo, Norton, OceanMan, wyatt, PopeMothballsXII, urbanindy, AyjAy011
 Cortland__NY, Arctic Tern, mobambachloride, voltaicwaffles, sagittarius998, train, TommyTheMet, ineedaface, OceanMan, PopeMothballsXII, AyjAy011
-Onondaga__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
-Seneca__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Norton, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
-Ontario__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Norton, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
-Genesee__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, OceanMan, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
+Onondaga__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
+Seneca__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Norton, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
+Ontario__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Norton, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Chicago Geographer, Jaycee, AyjAy011
+Genesee__NY, Arctic Tern, mobambachloride, Ivan, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, OceanMan, PopeMothballsXII, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
 Tioga__NY, Arctic Tern, mobambachloride, voltaicwaffles, TommyTheMet, Apollobo, Norton, wyatt, PopeMothballsXII, urbanindy
 Tompkins__NY, Arctic Tern, mobambachloride, voltaicwaffles, TommyTheMet, Apollobo, Norton, wyatt, PopeMothballsXII
-Worcester__MA, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Jaycee, AyjAy011
-Tolland__CT, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, TommyTheMet, ineedaface, GeoGamr, EnzoDragon1, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
-Windham__CT, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, ineedaface, EnzoDragon1, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
-Hancock__ME, Arctic Tern, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, ocelot, OKobern, PopeMothballsXII, Arija, urbanindy, Jaycee
-Penobscot__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, OKobern, Arija, Jaycee
-Somerset__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, OKobern, Jaycee
-Waldo__ME, Arctic Tern, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, ocelot, OKobern, PopeMothballsXII, Arija, urbanindy, Jaycee
-Kennebec__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, ineedaface, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee
-Sagadahoc__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, ocelot, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee
-Cumberland__ME, Arctic Tern, mobambachloride, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, ocelot, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee, AyjAy011
+Worcester__MA, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, PopeMothballsXII, Jaycee, AyjAy011
+Tolland__CT, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, TommyTheMet, ineedaface, GeoGamr, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
+Windham__CT, Arctic Tern, voltaicwaffles, sheepie, stathx, sagittarius998, ineedaface, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
+Hancock__ME, Arctic Tern, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, ocelot, OKobern, PopeMothballsXII, Arija, urbanindy, Jaycee
+Penobscot__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, Piglee, OKobern, Arija, Jaycee
+Somerset__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, Piglee, OKobern, Jaycee
+Waldo__ME, Arctic Tern, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, ocelot, OKobern, PopeMothballsXII, Arija, urbanindy, Jaycee
+Kennebec__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, ineedaface, Piglee, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee
+Sagadahoc__ME, Arctic Tern, mobambachloride, sheepie, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, ocelot, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee
+Cumberland__ME, Arctic Tern, mobambachloride, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, ocelot, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee, AyjAy011
 Essex__VT, Arctic Tern, sagittarius998, ineedaface, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Coos__NH, Arctic Tern, voltaicwaffles, sheepie, Popeetoes, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Coos__NH, Arctic Tern, voltaicwaffles, sheepie, Popeetoes, sagittarius998, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
 Oxford__ME, Arctic Tern, Ivan, sheepie, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, ineedaface, EnzoDragon1, wyatt, OKobern, Chicago Geographer, Arija, Jaycee
 Franklin__ME, Arctic Tern, mobambachloride, sagittarius998, TommyTheMet, ineedaface, wyatt, Jaycee
-Androscoggin__ME, Arctic Tern, mobambachloride, sheepie, ineedaface, wyatt, OKobern, PopeMothballsXII, Jaycee
+Androscoggin__ME, Arctic Tern, mobambachloride, sheepie, ineedaface, Piglee, wyatt, OKobern, PopeMothballsXII, Jaycee
 Jefferson__WV, Arctic Tern, mobambachloride, voltaicwaffles, sheepie, sagittarius998, kp, ineedaface, EnzoDragon1, ocelot, bam, PopeMothballsXII, urbanindy, Jet
 Lake__IL, Arctic Tern, voltaicwaffles, Ivan, sheepie, Popeetoes, sagittarius998, shinboy, DasSchoontz, MikeJB, kp, Dimei, bradinator, ineedaface, Apollobo, Norton, GeoGamr, corndog, Chicago Geographer, Arija, Paris_Labrador, urbanindy, bennyman, Jaycee, AyjAy011
 Racine__WI, Arctic Tern, Ivan, sheepie, Popeetoes, shinboy, DasSchoontz, MikeJB, kp, Dimei, bradinator, ineedaface, Apollobo, Norton, corndog, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee, AyjAy011
 Kenosha__WI, Arctic Tern, Ivan, sheepie, Popeetoes, shinboy, DasSchoontz, MikeJB, kp, Dimei, bradinator, ineedaface, Apollobo, Norton, GeoGamr, corndog, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee, AyjAy011
 Milwaukee__WI, Arctic Tern, Ivan, sheepie, Popeetoes, shinboy, DasSchoontz, MikeJB, kp, Dimei, bradinator, ineedaface, Apollobo, Norton, corndog, Chicago Geographer, Arija, urbanindy, Jaycee, AyjAy011
-Harris__TX, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, stathx, Popeetoes, shinboy, klutchEZ, Cascadia, Pencil Vulture, Kawi, Apollobo, Banana Peel Seal, gurf, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, bam, ProbablyGeo, JayDoo909, Jet
+Harris__TX, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, stathx, Popeetoes, shinboy, klutchEZ, Cascadia, Pencil Vulture, Kawi, Apollobo, Banana Peel Seal, gurf, Norton, GeoGamr, Piglee, Tumnus, muskox, FlyingBro, OKobern, bam, ProbablyGeo, JayDoo909, Jet
 Dona_Ana__NM, Arctic Tern, cascadia, mobambachloride, voltaicwaffles, stathx, Popeetoes, DasSchoontz, Cascadia, Diamond Armor Steve, gurf, GeoGamr, Tumnus, FlyingBro, OKobern, JayDoo909, Jet
 Indiana__PA, Arctic Tern, mobambachloride, PopeMothballsXII, Jaycee
 Cambria__PA, Arctic Tern, mobambachloride, ineedaface, PopeMothballsXII, Jaycee
@@ -1805,13 +1805,13 @@ Georgetown__SC, cascadia, mobambachloride, stathx, shinboy, Bubba, TommyTheMet, 
 Schuyler__NY, mobambachloride, sagittarius998, TommyTheMet, Apollobo, PopeMothballsXII, Chicago Geographer
 Fairfax__VA, mobambachloride, voltaicwaffles, Ivan, sagittarius998, Diamond Armor Steve, Norton, GeoGamr, FlyingBro, PopeMothballsXII
 Rockland__NY, mobambachloride, sheepie, sagittarius998, Radu, train, TommyTheMet, kp, ineedaface, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Arctic94, urbanindy, Jaycee, AyjAy011
-Sullivan__NH, mobambachloride, voltaicwaffles, sheepie, sagittarius998, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Jaycee
-Orange__VT, mobambachloride, voltaicwaffles, sheepie, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, wyatt, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Addison__VT, mobambachloride, sagittarius998, train, TommyTheMet, Tumnus, wyatt, OKobern, Arija, Jaycee
-Chittenden__VT, mobambachloride, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, EnzoDragon1, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Saratoga__NY, mobambachloride, stathx, sagittarius998, Radu, train, TommyTheMet, ineedaface, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
-Montgomery__NY, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, PopeMothballsXII, Jaycee, AyjAy011
-Madison__NY, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, PopeMothballsXII, Jaycee, AyjAy011
+Sullivan__NH, mobambachloride, voltaicwaffles, sheepie, sagittarius998, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Jaycee
+Orange__VT, mobambachloride, voltaicwaffles, sheepie, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, wyatt, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Addison__VT, mobambachloride, sagittarius998, train, TommyTheMet, Piglee, Tumnus, wyatt, OKobern, Arija, Jaycee
+Chittenden__VT, mobambachloride, Popeetoes, sagittarius998, DasSchoontz, train, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Saratoga__NY, mobambachloride, stathx, sagittarius998, Radu, train, TommyTheMet, ineedaface, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Jaycee, AyjAy011
+Montgomery__NY, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, Piglee, PopeMothballsXII, Jaycee, AyjAy011
+Madison__NY, mobambachloride, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, Piglee, PopeMothballsXII, Jaycee, AyjAy011
 Midland__MI, mobambachloride, stathx, shinboy, MikeJB
 Mecosta__MI, mobambachloride, stathx, shinboy, MikeJB, Norton, Chicago Geographer, Paris_Labrador, urbanindy
 Montcalm__MI, mobambachloride, stathx, shinboy, MikeJB, Norton, Chicago Geographer, Paris_Labrador, urbanindy, bennyman
@@ -1870,43 +1870,43 @@ Buckingham__VA, mobambachloride, Diamond Armor Steve, ocelot, Jet
 Cumberland__VA, mobambachloride, Diamond Armor Steve, ocelot, Jet
 Prince_Edward__VA, mobambachloride, Diamond Armor Steve, ocelot, muskox
 Charlotte__VA, mobambachloride, Diamond Armor Steve, ocelot, muskox
-Granville__NC, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, ocelot, muskox, PopeMothballsXII, Jet
-Harnett__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, OceanMan, PopeMothballsXII, Arctic94, Arija, Jet
-Johnston__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Cumberland__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, OceanMan, PopeMothballsXII, Arctic94, Arija, Jet
-Robeson__NC, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Tumnus, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Sumter__SC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Clarendon__SC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Granville__NC, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, Piglee, ocelot, muskox, PopeMothballsXII, Jet
+Harnett__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, OceanMan, PopeMothballsXII, Arctic94, Arija, Jet
+Johnston__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Cumberland__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, OceanMan, PopeMothballsXII, Arctic94, Arija, Jet
+Robeson__NC, mobambachloride, voltaicwaffles, 5ummrtime, Ivan, Popeetoes, sagittarius998, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, Tumnus, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Sumter__SC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Clarendon__SC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, muskox, PopeMothballsXII, Arctic94, Arija, Jet
 Bamberg__SC, mobambachloride, voltaicwaffles, shinboy, soup, muskox
 Barnwell__SC, mobambachloride, voltaicwaffles, shinboy, kp, muskox, PopeMothballsXII
 Putnam__GA, mobambachloride, shinboy, Radu
 Jones__GA, mobambachloride, shinboy, Jo, urbanindy
-Bibb__GA, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
-Crawford__GA, mobambachloride, Popeetoes, shinboy, Radu, klutchEZ, soup, Kawi, Norton, Chicago Geographer, Jet, AyjAy011
-Peach__GA, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, Jet, AyjAy011
+Bibb__GA, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Piglee, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Jet, Littleduck, AyjAy011
+Crawford__GA, mobambachloride, Popeetoes, shinboy, Radu, klutchEZ, soup, Kawi, Norton, Piglee, Chicago Geographer, Jet, AyjAy011
+Peach__GA, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, Piglee, muskox, Chicago Geographer, Paris_Labrador, Jet, AyjAy011
 Taylor__GA, mobambachloride, shinboy, klutchEZ, Jet
 Talbot__GA, mobambachloride, shinboy, klutchEZ, Jet
 Russell__AL, mobambachloride, shinboy, Radu, GeoGamr, Jet
 Perry__MS, mobambachloride, sheepie, OKobern, JayDoo909
-Grady__GA, mobambachloride, shinboy
-Thomas__GA, mobambachloride, shinboy
+Grady__GA, mobambachloride, shinboy, Piglee
+Thomas__GA, mobambachloride, shinboy, Piglee
 Brooks__GA, mobambachloride, shinboy
 Lowndes__GA, mobambachloride, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
 Hamilton__FL, mobambachloride, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
-Baker__FL, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, shinboy, Radu, kp, Kawi, Norton, OKobern, Arija, JayDoo909
+Baker__FL, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, shinboy, Radu, kp, Kawi, Norton, Piglee, OKobern, Arija, JayDoo909
 Williamsburg__SC, mobambachloride, shinboy, TommyTheMet, muskox
 Duplin__NC, mobambachloride, voltaicwaffles, Bubba, Tumnus, ocelot, muskox
 Wayne__NC, mobambachloride, voltaicwaffles, soup, Bubba, muskox
 Greene__NC, mobambachloride, voltaicwaffles, Popeetoes, Diamond Armor Steve, muskox
 Pitt__NC, mobambachloride, voltaicwaffles, Popeetoes, Tumnus, muskox
-Wilson__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Halifax__NC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Northampton__NC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
-Sussex__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, PopeMothballsXII, Arctic94, Jet
-Prince_George__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, soup, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
-Petersburg__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
-Colonial_Heights__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
-Chesterfield__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
+Wilson__NC, mobambachloride, voltaicwaffles, 5ummrtime, Popeetoes, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Halifax__NC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Northampton__NC, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Arija, Jet
+Sussex__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, PopeMothballsXII, Arctic94, Jet
+Prince_George__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, soup, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
+Petersburg__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
+Colonial_Heights__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
+Chesterfield__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, PopeMothballsXII, Arctic94, Jet
 Somerset__MD, mobambachloride, sagittarius998, ineedaface, Tumnus, ocelot, PopeMothballsXII
 Wicomico__MD, mobambachloride, sagittarius998, TommyTheMet, ineedaface, EnzoDragon1, Tumnus, ocelot, PopeMothballsXII
 Dorchester__MD, mobambachloride, sagittarius998, EnzoDragon1, ocelot, PopeMothballsXII
@@ -1953,7 +1953,7 @@ Washington__GA, mobambachloride, shinboy, Radu
 Baldwin__GA, mobambachloride, shinboy, Radu
 Wilkinson__GA, mobambachloride, shinboy, Radu
 Twiggs__GA, mobambachloride, 5ummrtime, Popeetoes, shinboy, Radu, klutchEZ, GeoGamr, Tumnus, FlyingBro, OKobern, urbanindy, Jet, Littleduck
-Houston__GA, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
+Houston__GA, mobambachloride, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, klutchEZ, soup, kp, Kawi, Norton, GeoGamr, Piglee, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
 Macon__GA, mobambachloride, shinboy, Radu
 Sumter__GA, mobambachloride, shinboy, Radu
 Lee__GA, mobambachloride, shinboy, Radu, Kawi, GeoGamr
@@ -1964,14 +1964,14 @@ Miller__GA, mobambachloride, shinboy
 Early__GA, mobambachloride, shinboy
 Clay__GA, mobambachloride, shinboy
 Randolph__GA, mobambachloride, shinboy, Kawi, GeoGamr
-Vance__NC, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, ocelot, muskox, PopeMothballsXII, Jet
-Warren__NC, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, ocelot, muskox, Jet
-Dinwiddie__VA, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, ocelot, muskox, Jet
-Hanover__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, fbmdf1821, EnzoDragon1, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
-Caroline__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
-Spotsylvania__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
-Fredericksburg__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
-Stafford__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, kp, ineedaface, Diamond Armor Steve, EnzoDragon1, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
+Vance__NC, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, Piglee, ocelot, muskox, PopeMothballsXII, Jet
+Warren__NC, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, Diamond Armor Steve, Piglee, ocelot, muskox, Jet
+Dinwiddie__VA, mobambachloride, voltaicwaffles, sagittarius998, Radu, soup, Bubba, TommyTheMet, Diamond Armor Steve, Piglee, ocelot, muskox, Jet
+Hanover__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, fbmdf1821, EnzoDragon1, Piglee, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
+Caroline__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
+Spotsylvania__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, ineedaface, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
+Fredericksburg__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
+Stafford__VA, mobambachloride, voltaicwaffles, 5ummrtime, sagittarius998, shinboy, Radu, Bubba, TommyTheMet, kp, ineedaface, Diamond Armor Steve, EnzoDragon1, Piglee, ocelot, muskox, wyatt, PopeMothballsXII, Arctic94, Arija, Paris_Labrador, Jet
 Cape_May__NJ, mobambachloride, Popeetoes, sagittarius998, train, TommyTheMet, ocelot
 Lenawee__MI, mobambachloride, stathx, Paris_Labrador
 Lincoln__KY, mobambachloride, stathx, shinboy, PopeMothballsXII, Littleduck
@@ -2016,7 +2016,7 @@ Hertford__NC, voltaicwaffles, Ivan, Tumnus, muskox
 Manassas__VA, voltaicwaffles, sagittarius998, Diamond Armor Steve, PopeMothballsXII, urbanindy
 Stanly__NC, voltaicwaffles, soup, Jet
 Rutherford__NC, voltaicwaffles, shinboy, soup, kp, fbmdf1821, ocelot
-Hillsborough__NH, voltaicwaffles, sheepie, stathx, sagittarius998, kp, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Jaycee
+Hillsborough__NH, voltaicwaffles, sheepie, stathx, sagittarius998, kp, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, wyatt, FlyingBro, PopeMothballsXII, Jaycee
 Carroll__NH, voltaicwaffles, Ivan, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
 Brown__OH, voltaicwaffles, stathx, Diamond Armor Steve
 Adams__OH, voltaicwaffles, stathx, Diamond Armor Steve, Chicago Geographer
@@ -2072,10 +2072,10 @@ Hidalgo__NM, voltaicwaffles, stathx, Diamond Armor Steve, gurf, GeoGamr, Tumnus,
 Grant__NM, voltaicwaffles, stathx, Diamond Armor Steve, gurf, GeoGamr, Tumnus, FlyingBro, OKobern, bam, JayDoo909, Jet
 Luna__NM, voltaicwaffles, stathx, Diamond Armor Steve, gurf, GeoGamr, Tumnus, FlyingBro, OKobern, JayDoo909, Jet
 Scurry__TX, voltaicwaffles, Popeetoes, GeoGamr, FlyingBro, OKobern, JayDoo909
-Waller__TX, voltaicwaffles, stathx, Popeetoes, klutchEZ, Pencil Vulture, Kawi, Norton, Tumnus, FlyingBro, JayDoo909, Jet
-Lee__TX, voltaicwaffles, Popeetoes, Kawi, Norton, Tumnus, FlyingBro, OKobern, JayDoo909, Jet
-Washington__TX, voltaicwaffles, stathx, Popeetoes, Pencil Vulture, Kawi, Norton, Tumnus, JayDoo909, Jet
-Bastrop__TX, voltaicwaffles, Popeetoes, Kawi, Norton, Tumnus, FlyingBro, JayDoo909, Jet
+Waller__TX, voltaicwaffles, stathx, Popeetoes, klutchEZ, Pencil Vulture, Kawi, Norton, Piglee, Tumnus, FlyingBro, JayDoo909, Jet
+Lee__TX, voltaicwaffles, Popeetoes, Kawi, Norton, Piglee, Tumnus, FlyingBro, OKobern, JayDoo909, Jet
+Washington__TX, voltaicwaffles, stathx, Popeetoes, Pencil Vulture, Kawi, Norton, Piglee, Tumnus, JayDoo909, Jet
+Bastrop__TX, voltaicwaffles, Popeetoes, Kawi, Norton, Piglee, Tumnus, FlyingBro, JayDoo909, Jet
 Sarasota__FL, voltaicwaffles, shinboy, DasSchoontz, MikeJB, Diamond Armor Steve, Norton, GeoGamr, Paris_Labrador
 Summers__WV, voltaicwaffles, fbmdf1821, OKobern, corndog, Paris_Labrador, urbanindy, Jet
 McCreary__KY, voltaicwaffles, sheepie, stathx, shinboy, fbmdf1821, Norton
@@ -2182,13 +2182,13 @@ Emanuel__GA, 5ummrtime, Popeetoes, shinboy, Radu, klutchEZ, GeoGamr, Tumnus, Fly
 Treutlen__GA, 5ummrtime, Popeetoes, shinboy, Radu, klutchEZ, GeoGamr, Tumnus, FlyingBro, OKobern, urbanindy, Jet, Littleduck
 Laurens__GA, 5ummrtime, Popeetoes, shinboy, Radu, klutchEZ, GeoGamr, Tumnus, FlyingBro, OKobern, urbanindy, Jet, Littleduck
 Bleckley__GA, 5ummrtime, Popeetoes, shinboy, Radu, klutchEZ, GeoGamr, Tumnus, FlyingBro, OKobern, urbanindy, Jet, Littleduck
-Monroe__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
-Lamar__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, Kawi, Norton, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
-Butts__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
-Spalding__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, Kawi, Norton, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, Littleduck, AyjAy011
-Henry__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
-Dooly__GA, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
-Crisp__GA, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
+Monroe__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Piglee, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
+Lamar__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, Kawi, Norton, Piglee, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
+Butts__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Piglee, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
+Spalding__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, Kawi, Norton, Piglee, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, Littleduck, AyjAy011
+Henry__GA, 5ummrtime, Ivan, Popeetoes, shinboy, Radu, soup, kp, Kawi, Jo, Norton, GeoGamr, Piglee, Tumnus, muskox, FlyingBro, OKobern, Chicago Geographer, Paris_Labrador, urbanindy, Littleduck, AyjAy011
+Dooly__GA, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, Piglee, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
+Crisp__GA, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, Piglee, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
 Turner__GA, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
 Tift__GA, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
 Cook__GA, 5ummrtime, Ivan, shinboy, Radu, soup, kp, Kawi, Norton, GeoGamr, muskox, Chicago Geographer, Paris_Labrador, AyjAy011
@@ -2209,7 +2209,7 @@ Macoupin__IL, Ivan, Popeetoes, shinboy, DasSchoontz, kp, Dimei, Kawi, Apollobo, 
 Montgomery__IL, Ivan, sheepie, Popeetoes, shinboy, DasSchoontz, Dimei, Kawi, Apollobo, WizardGrape, Chicago Geographer, JayDoo909
 Logan__IL, Ivan, shinboy, DasSchoontz, kp, Dimei, Kawi, Apollobo, Chicago Geographer, JayDoo909
 Whitley__IN, Ivan, shinboy, TommyTheMet, Norton, Chicago Geographer, Paris_Labrador, urbanindy
-Belknap__NH, Ivan, sagittarius998, Kawi, ineedaface, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Jaycee
+Belknap__NH, Ivan, sagittarius998, Kawi, ineedaface, EnzoDragon1, Piglee, Tumnus, wyatt, PopeMothballsXII, Jaycee
 St__Joseph__MI, Ivan, stathx, shinboy, DasSchoontz, MikeJB, Paris_Labrador, Jaycee
 Cass__MI, Ivan, stathx, shinboy, MikeJB, Chicago Geographer, Paris_Labrador, Jaycee
 Adams__WI, Ivan, sheepie, DasSchoontz, Apollobo, Tumnus, corndog, Chicago Geographer, bennyman, AyjAy011
@@ -2344,9 +2344,9 @@ Chicot__AR, sheepie, shinboy
 East_Carroll__LA, sheepie, shinboy
 West_Carroll__LA, sheepie, shinboy
 Simpson__MS, sheepie, OKobern, JayDoo909
-Caledonia__VT, sheepie, Popeetoes, sagittarius998, TommyTheMet, ineedaface, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
-Knox__ME, sheepie, Kawi, ineedaface, EnzoDragon1, ocelot, PopeMothballsXII, Arija, urbanindy, Jaycee
-Lincoln__ME, sheepie, Kawi, ineedaface, EnzoDragon1, ocelot, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee
+Caledonia__VT, sheepie, Popeetoes, sagittarius998, TommyTheMet, ineedaface, Piglee, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Knox__ME, sheepie, Kawi, ineedaface, EnzoDragon1, Piglee, ocelot, PopeMothballsXII, Arija, urbanindy, Jaycee
+Lincoln__ME, sheepie, Kawi, ineedaface, EnzoDragon1, Piglee, ocelot, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Paris_Labrador, urbanindy, Jaycee
 Grant__WA, sheepie, Pencil Vulture, gurf, Tumnus, OceanMan, Arija
 Wilkin__MN, sheepie, stathx, DasSchoontz, Bradinator, bradinator, WizardGrape, corndog, Chicago Geographer, Paris_Labrador, Jaycee, AyjAy011
 Grant__MN, sheepie, DasSchoontz, Bradinator, bradinator, WizardGrape, corndog, Chicago Geographer, Paris_Labrador, Jaycee, AyjAy011
@@ -2581,13 +2581,13 @@ Perry__IL, stathx
 Bristol__RI, stathx, sagittarius998, Tumnus, wyatt, OKobern, Arija, Jaycee
 Dukes__MA, stathx, sagittarius998, TommyTheMet, PopeMothballsXII, Chicago Geographer
 Nantucket__MA, stathx, sagittarius998, PopeMothballsXII
-Berkshire__MA, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Diamond Armor Steve, Apollobo, Banana Peel Seal, EnzoDragon1, Tumnus, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee, AyjAy011
+Berkshire__MA, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Diamond Armor Steve, Apollobo, Banana Peel Seal, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee, AyjAy011
 Ulster__NY, stathx, sagittarius998, Radu, train, TommyTheMet, wyatt, PopeMothballsXII, Jaycee, AyjAy011
 Greene__NY, stathx, sagittarius998, Radu, train, TommyTheMet, ineedaface, wyatt, PopeMothballsXII, Jaycee
-Columbia__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, wyatt, PopeMothballsXII, Jaycee, AyjAy011
-Rensselaer__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, Tumnus, wyatt, OKobern, Jaycee, AyjAy011
-Albany__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, Tumnus, OceanMan, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee, AyjAy011
-Schenectady__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Jaycee, AyjAy011
+Columbia__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, Piglee, wyatt, PopeMothballsXII, Jaycee, AyjAy011
+Rensselaer__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, Piglee, Tumnus, wyatt, OKobern, Jaycee, AyjAy011
+Albany__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Apollobo, Banana Peel Seal, EnzoDragon1, Piglee, Tumnus, OceanMan, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee, AyjAy011
+Schenectady__NY, stathx, sagittarius998, Radu, DasSchoontz, train, TommyTheMet, ineedaface, Banana Peel Seal, EnzoDragon1, Piglee, Tumnus, wyatt, PopeMothballsXII, Jaycee, AyjAy011
 Windham__VT, stathx, sagittarius998, train, TommyTheMet, kp, ineedaface, Apollobo, EnzoDragon1, Tumnus, PopeMothballsXII, Arija, Jaycee
 Bennington__VT, stathx, sagittarius998, train, TommyTheMet, ineedaface, Apollobo, EnzoDragon1, Arija, Jaycee
 Cheshire__NH, stathx, sagittarius998, kp, ineedaface, Apollobo, EnzoDragon1, Tumnus, wyatt, PopeMothballsXII, Jaycee
@@ -2661,10 +2661,10 @@ Hale__TX, Popeetoes, TommyTheMet, FlyingBro, JayDoo909
 Lubbock__TX, Popeetoes, TommyTheMet, GeoGamr, FlyingBro, OKobern, JayDoo909
 Lynn__TX, Popeetoes, GeoGamr, FlyingBro, JayDoo909
 Garza__TX, Popeetoes, GeoGamr, FlyingBro, JayDoo909
-Fayette__TX, Popeetoes, Pencil Vulture, Kawi, Norton, Tumnus, FlyingBro, OKobern, JayDoo909, Jet
+Fayette__TX, Popeetoes, Pencil Vulture, Kawi, Norton, Piglee, Tumnus, FlyingBro, OKobern, JayDoo909, Jet
 Pittsburg__OK, Popeetoes, DasSchoontz, Kawi, Tumnus, OKobern, corndog, Jet
-Franklin__VT, Popeetoes, sagittarius998, train, Kawi, ineedaface, EnzoDragon1, PopeMothballsXII, Arija, Jaycee
-Washington__VT, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
+Franklin__VT, Popeetoes, sagittarius998, train, Kawi, ineedaface, EnzoDragon1, Piglee, PopeMothballsXII, Arija, Jaycee
+Washington__VT, Popeetoes, sagittarius998, DasSchoontz, TommyTheMet, Kawi, ineedaface, EnzoDragon1, Piglee, wyatt, OKobern, PopeMothballsXII, Chicago Geographer, Arija, Jaycee
 Pulaski__MO, Popeetoes, DasSchoontz, Kawi, Apollobo, OKobern, Chicago Geographer, JayDoo909, Jet
 Laclede__MO, Popeetoes, DasSchoontz, Kawi, Apollobo, OKobern, Chicago Geographer, JayDoo909, Jet
 Phelps__MO, Popeetoes, DasSchoontz, Kawi, Apollobo, OKobern, Chicago Geographer, JayDoo909, Jet
@@ -2705,22 +2705,22 @@ Hockley__TX, Popeetoes, TommyTheMet, GeoGamr, OKobern, JayDoo909
 Lamb__TX, Popeetoes, GeoGamr, FlyingBro, JayDoo909
 Dickens__TX, Popeetoes, TommyTheMet, OKobern
 Caroline__MD, sagittarius998, ocelot, ProbablyGeo, PopeMothballsXII, AyjAy011
-Aroostook__ME, sagittarius998, ineedaface, Arija, Jaycee
-Washington__ME, sagittarius998, ineedaface, EnzoDragon1, Arija, Jaycee
+Aroostook__ME, sagittarius998, ineedaface, Piglee, Arija, Jaycee
+Washington__ME, sagittarius998, ineedaface, EnzoDragon1, Piglee, Arija, Jaycee
 Pearl_River__MS, sagittarius998, klutchEZ, kp, Norton, GeoGamr, FlyingBro, urbanindy, Jet
 Clinton__NY, sagittarius998, DasSchoontz, train, TommyTheMet, wyatt, PopeMothballsXII, Arija, Jaycee
-Essex__NY, sagittarius998, train, TommyTheMet, Tumnus, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee
+Essex__NY, sagittarius998, train, TommyTheMet, Piglee, Tumnus, wyatt, OKobern, PopeMothballsXII, Arija, Jaycee
 Fulton__NY, sagittarius998, train, TommyTheMet
 Yates__NY, sagittarius998, TommyTheMet, Chicago Geographer
 Chenango__NY, sagittarius998, train, OceanMan, wyatt, PopeMothballsXII, urbanindy
-Otsego__NY, sagittarius998, train, OceanMan, wyatt, PopeMothballsXII, urbanindy, Jaycee
-Schoharie__NY, sagittarius998, train, OceanMan, wyatt, PopeMothballsXII, Jaycee
+Otsego__NY, sagittarius998, train, Piglee, OceanMan, wyatt, PopeMothballsXII, urbanindy, Jaycee
+Schoharie__NY, sagittarius998, train, Piglee, OceanMan, wyatt, PopeMothballsXII, Jaycee
 Franklin__NY, sagittarius998, train, Arija, Jaycee
 St__Lawrence__NY, sagittarius998, train, TommyTheMet
 Delaware__NY, sagittarius998, OceanMan, wyatt, PopeMothballsXII, urbanindy, Jaycee, AyjAy011
 Sullivan__NY, sagittarius998, TommyTheMet, PopeMothballsXII, urbanindy, AyjAy011
-Orleans__VT, sagittarius998, train, OKobern, Arija, Jaycee
-Grand_Isle__VT, sagittarius998, DasSchoontz, train, EnzoDragon1, PopeMothballsXII, Arija, Jaycee
+Orleans__VT, sagittarius998, train, Piglee, OKobern, Arija, Jaycee
+Grand_Isle__VT, sagittarius998, DasSchoontz, train, EnzoDragon1, Piglee, PopeMothballsXII, Arija, Jaycee
 Lamoille__VT, sagittarius998, train, ineedaface, OKobern, PopeMothballsXII, Arija, Jaycee
 Potter__PA, sagittarius998
 Wyoming__PA, sagittarius998
@@ -2755,14 +2755,14 @@ Union__KY, shinboy
 McLean__KY, shinboy, Littleduck
 Baker__GA, shinboy, Radu
 Seminole__GA, shinboy
-Colquitt__GA, shinboy, Radu
+Colquitt__GA, shinboy, Radu, Piglee
 Lanier__GA, shinboy
 Echols__GA, shinboy
 Clinch__GA, shinboy, Arija
 Atkinson__GA, shinboy
 Berrien__GA, shinboy
 Irwin__GA, shinboy
-Worth__GA, shinboy, Radu, Kawi, GeoGamr
+Worth__GA, shinboy, Radu, Kawi, GeoGamr, Piglee
 Calhoun__GA, shinboy, Radu
 Terrell__GA, shinboy, Radu, Kawi, GeoGamr
 Ben_Hill__GA, shinboy
