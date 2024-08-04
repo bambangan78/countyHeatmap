@@ -143,11 +143,11 @@ function onEachFeature(feature, layer) {
 const geojson = L.geoJson(usCountiesData, {
     style: function (feature) {
         return {
-            weight: 0.75,
+            weight: 0.70,
             opacity: 1,
             color: 'black',
             dashArray: '',
-            fillOpacity: 0.7,
+            fillOpacity: 1,
             fillColor: getColor(`${normalizeCountyName(feature.properties.NAME)}__${stateId["" + feature.properties.STATEFP]}`)
         };
     },
