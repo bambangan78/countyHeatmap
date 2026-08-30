@@ -23,8 +23,8 @@ def readMaps(directory):
 def getColor(count):
     if count < 1:
         count = 1
-        
-    hue = (count) * 240 / 90
+
+    hue = (count) * 270 / 85
     
     rgb = colorsys.hls_to_rgb(hue / 360.0, 0.5, 1.0)
     
