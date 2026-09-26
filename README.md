@@ -11,3 +11,5 @@ Submit your map on the discord
 - counties with 1 visitor: copper river, north slope, AK; carroll, IA; saint helena, LA; lawrence, smith, MS; bradley, AR; loup, garfield, NE
 - largest difference in visitation count of bordering county equivalents: arlington, VA (73) and falls church, va (17)
 - largest difference in visitation count of bordering county equivalents excl. independent cities: fulton, GA (61) and fayette, GA (8)
+
+#### [Link](https://bambangan78.github.io/countyHeatmap/heatmap.html)
